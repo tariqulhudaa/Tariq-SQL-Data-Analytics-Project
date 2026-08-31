@@ -1,2 +1,2 @@
-# Tariq-SQL-Data-Warehouse-Project
+# Tariq-SQL-Data-Analytics-Project
 Modern Data Warehouse Analytics
